@@ -36,7 +36,9 @@ URL from it and repeat the process on all the urls returned.
 5.)  I tested the project by running over multiple websites and manually comparing the files generated, the content downloaded to the files and the number of links returned. For the debugging purpose, I used easy_understand.py file which kept printing everything which was being executed. Pycharm assisted me as well.
 
 6.)   I chose Python because I love working with Python. Python is a pretty good choice for projects where you need to complete the task under a given time span and time complexity is not very much of an issue. It's fast and you have to code exactly what you need. 
+
 7.)   I faced a problem while developing the program, If there is a broken link on the site, the programme has no clue what to do and It'll eventually fail. This feature can be added to the project. One other feature that can be implemented is extracting the text in normal human readable form rather than saving it in HTML format.
+
 8.)   You will have to install BeautifulSoup at your system. Please follow the link: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
 to install it. Other than this, the program has no dependencies. Thanks a lot again. It was a pretty amazing task. I enjoyed doing it a lot. Although it took more than 2-3 hours as you said :)
 
