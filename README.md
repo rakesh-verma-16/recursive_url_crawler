@@ -44,9 +44,13 @@ to install it. Other than this, the program has no dependencies. Thanks a lot ag
 
 Commands to run it: 
   $ sudo apt-get install zip unzip
+  
   $ unzip Rakesh.Verma.zip
+  
   $ cd Rakesh.Verma
+  
   $ python easy_understand.py (To understand what is going on)
+  
   $ python Parser.py (If you just want the files created in your system)
 
 P.S: I have tried to make it as stable as possible but there are a lot of mistakes in the code. Following two are the most encountered errors are : 
